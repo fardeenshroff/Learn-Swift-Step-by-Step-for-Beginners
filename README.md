@@ -30,8 +30,6 @@ Learn about the Swift language, its key features, history, and use in iOS, macOS
 - [Key Features of Swift](https://www.tutorialspoint.com/swift/swift_overview.htm)
 - [Why Swift for iOS Development](https://developer.apple.com/swift/)
   
-### Downloads
-[Download Chapter 1: Introduction to Swift](#)
 
 ### Exercise:
 Write a Swift program that prints "Hello, World!" to the console.
@@ -48,8 +46,6 @@ Learn to set up **Xcode** on macOS to create Swift apps and run them on simulato
 - [Setting up Xcode Playground](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/Xcode_Overview/Playgrounds.html)
 - [Creating a New Xcode Project](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/Xcode_Overview/CreatingAnXcodeProject.html)
   
-### Downloads
-[Download Chapter 2: Setting Up Your Development Environment](#)
 
 ### Exercise:
 Create a new Xcode project and write your first Swift code in a playground.
@@ -67,8 +63,6 @@ Cover the basics of Swift programming, including variables, constants, data type
 - [Operators in Swift](https://www.swift.org/documentation/)
 - [Working with Strings and Numbers](https://www.hackingwithswift.com/read/0/1/what-is-swift)
 
-### Downloads
-[Download Chapter 3: Swift Basics](#)
 
 ### Exercise:
 Write a Swift function that calculates and returns the sum of all even numbers from 1 to 100.
@@ -86,8 +80,6 @@ Understand how control flow works in Swift with conditionals (if, else) and loop
 - [Closures in Swift](https://developer.apple.com/library/archive/documentation/Swift/Conceptual/Swift_Programming_Language/Closures.html)
 - [Functions with Parameters and Return Values](https://www.tutorialspoint.com/swift/swift_functions.htm)
 
-### Downloads
-[Download Chapter 4: Control Flow and Functions](#)
 
 ### Exercise:
 Write a Swift function that checks if a number is prime.
@@ -105,8 +97,6 @@ Dive into Swift’s powerful collection types such as arrays, dictionaries, and 
 - [Sets and Tuples](https://www.tutorialspoint.com/swift/swift_sets.htm)
 - [Advanced Collection Operations](https://developer.apple.com/swift/)
 
-### Downloads
-[Download Chapter 5: Working with Collections](#)
 
 ### Exercise:
 Create an array and dictionary to store a student’s name and grade, and loop through them to output the results.
@@ -123,8 +113,6 @@ Learn about classes and objects in Swift, the foundation of object-oriented prog
 - [Inheritance, Polymorphism, and Encapsulation](https://www.tutorialspoint.com/swift/swift_object_oriented.htm)
 - [Working with Initializers](https://www.geeksforgeeks.org/initializers-in-swift/)
   
-### Downloads
-[Download Chapter 6: OOP in Swift](#)
 
 ### Exercise:
 Create a class for a Car with properties such as color, model, and brand, and then inherit it to create subclasses.
@@ -141,8 +129,6 @@ Master error handling in Swift. Understand the use of `try`, `catch`, and error 
 - [Using do-try-catch](https://www.tutorialspoint.com/swift/swift_error_handling.htm)
 - [Custom Error Types](https://www.hackingwithswift.com/read/5/1/throwing-errors)
   
-### Downloads
-[Download Chapter 7: Error Handling](#)
 
 ### Exercise:
 Write a Swift program that attempts to read from a file and catches errors gracefully.
@@ -159,8 +145,6 @@ Master advanced Swift topics, including closures, protocols, and extensions. The
 - [Using Protocols](https://www.swift.org/documentation/)
 - [Extensions and Adding Behavior](https://www.hackingwithswift.com/read/6/3/creating-extensions)
   
-### Downloads
-[Download Chapter 8: Advanced Swift](#)
 
 ### Exercise:
 Create a protocol for a printable object and use it to create several classes.
@@ -177,8 +161,6 @@ Dive into SwiftUI, Apple’s modern framework for building user interfaces decla
 - [Building Layouts with Views](https://developer.apple.com/documentation/swiftui/view/)
 - [Managing State in SwiftUI](https://developer.apple.com/documentation/swiftui/state/)
   
-### Downloads
-[Download Chapter 9: Building iOS Apps with SwiftUI](#)
 
 ### Exercise:
 Build a simple iOS app displaying a list of items using `List` and `NavigationView` in SwiftUI.
@@ -195,8 +177,6 @@ Learn how to make network requests to get or send data via APIs. Understand how 
 - [Using URLSession for Networking](https://developer.apple.com/documentation/foundation/urlsession)
 - [Parsing JSON with Codable](https://www.swift.org/documentation/)
 
-### Downloads
-[Download Chapter 10: Networking and APIs](#)
 
 ### Exercise:
 Create a Swift app that fetches data from a public API and displays it on the screen.
@@ -211,10 +191,8 @@ Learn how to save and load data in your apps using Core Data and UserDefaults. T
 ### Topics Covered:
 - [Core Data Basics](https://developer.apple.com/documentation/coredata/)
 - [Working with UserDefaults](https://www.swift.org/documentation/)
-  
-### Downloads
-[Download Chapter 11: Persisting Data](#)
 
+  
 ### Exercise:
 Create an app that saves and loads a list of favorite books using Core Data.
 
@@ -229,8 +207,6 @@ Master Swift's debugging tools in Xcode and learn how to write unit tests to ens
 - [Debugging in Xcode](https://developer.apple.com/documentation/)
 - [Unit Testing with XCTest](https://www.hackingwithswift.com/read/7/1/unit-testing-in-swift)
   
-### Downloads
-[Download Chapter 12: Debugging and Testing](#)
 
 ### Exercise:
 Write unit tests for a simple Swift app to ensure the correctness of its methods.
@@ -245,7 +221,21 @@ If you find any issues, bugs, or improvements, feel free to fork the repository 
 ## License
 This repository is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
 
+
+
 ---
 
 Happy Coding with Swift! 🚀
 
+---
+
+## Disclaimer
+
+The programming languages, resources, downloads, and links provided in this repository are the property of their respective owners, creators, and contributors. This repository is intended solely for educational purposes to help learners gain an understanding of each language, how to download and install the required tools, and how to start programming effectively.
+
+The content shared is purely for learning and informational purposes and is not intended to infringe on any copyrights or intellectual property rights. If you are the rightful owner of any resource or content and wish to have it removed, please contact me directly, and I will promptly take the necessary actions to comply with your request.
+
+All credit for the resources, libraries, and tools mentioned in this repository belongs to their respective authors.
+
+
+---
